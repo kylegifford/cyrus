@@ -3,7 +3,7 @@ Code Exercise for Cyrus Innovation
 
 Author: [kylegifford] (https://github.com/kylegifford)
 
-Reference: (http://www.cyrusinnovation.com/code-test-java)
+Reference: http://www.cyrusinnovation.com/code-test-java
 
 Installation
 ------------
