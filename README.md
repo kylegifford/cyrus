@@ -2,6 +2,7 @@ Code Exercise for Cyrus Innovation
 ========
 
 Author: [kylegifford] (https://github.com/kylegifford)
+
 Reference: (http://www.cyrusinnovation.com/code-test-java)
 
 Installation
@@ -25,10 +26,10 @@ To install:
 
 4. Execute the application
 
-	node app.js
+    node app.js
 	
 To run unit tests:
 
 1. Run:
 
-	nodeunit tests
+    nodeunit tests
